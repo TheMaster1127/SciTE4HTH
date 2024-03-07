@@ -6,6 +6,8 @@ SciTE4HTH is a modified version of SciTE4AutoHotkey designed to work with HTH us
 
 To use SciTE4HTH, simply open .hth files with the application. Syntax highlighting and keyword completion will be available for your HTH scripts.
 
+This editor is mainly for HTH https://github.com/TheMaster1127/HTH 
+
 ## Installation
 
 1. Download SciTE4HTH.
