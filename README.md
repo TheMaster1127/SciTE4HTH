@@ -14,9 +14,14 @@ This editor is mainly for HTH https://github.com/TheMaster1127/HTH
 2. Unzip the folder.
 3. Move the downloaded files to your desired location.
 4. Run SciTE4HTH by executing the executable file at "SciTE4HTH\SciTE\SciTE.exe".
-5. Open `hth.properties` and change the HTH.exe path to the path of the HTH.exe on your machine.
+5. Open `hth.properties` or `htpy.properties` and change the path to the full path of the `HTH.exe` or `HTpy.py` on your machine.
 
 ![image](https://github.com/TheMaster1127/SciTE4HTH/assets/134737935/15e31261-3639-49bf-8e49-c486c7ba25af)
+
+![image](https://github.com/TheMaster1127/SciTE4HTH/assets/134737935/afeb8503-1f4c-4c28-9b95-55974c659880)
+
+For HTH press `F5` or click on the run icon to transpile HTH to js in a full HTML file.
+For HTpy press `F5` to transpile and run at once and press `Ctrl+F7` or navigate to Tools > Compile to transpile the code only without ruining it.
 
 **Enable Dark Mode (Optional)**
 
