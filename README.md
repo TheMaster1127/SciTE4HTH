@@ -20,7 +20,7 @@ This editor is mainly for HTH https://github.com/TheMaster1127/HTH
 
 ![image](https://github.com/TheMaster1127/SciTE4HTH/assets/134737935/afeb8503-1f4c-4c28-9b95-55974c659880)
 
-For HTpy you must have python set up
+For HTpy you need to have python installed on you pc.
 
 For HTH press `F5` or click on the run icon to transpile HTH to js in a full HTML file.
 For HTpy press `F5` to transpile and run at once and press `Ctrl+F7` or navigate to Tools > Compile to transpile the code only without ruining it.
@@ -37,6 +37,6 @@ For HTpy press `F5` to transpile and run at once and press `Ctrl+F7` or navigate
 
 ## Features
 
-- Syntax highlighting for HTH scripts.
+- Syntax highlighting for HTH and HTpy scripts.
 - Keyword completion to assist with scripting.
-- Easy integration with HTH projects.
+- Easy integration with HTH and HTpy projects.
