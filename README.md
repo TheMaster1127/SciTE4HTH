@@ -23,6 +23,7 @@ This editor is mainly for HTH https://github.com/TheMaster1127/HTH
 For HTpy you need to have python installed on you pc.
 
 For HTH press `F5` or click on the run icon to transpile HTH to js in a full HTML file.
+
 For HTpy press `F5` to transpile and run at once and press `Ctrl+F7` or navigate to Tools > Compile to transpile the code only without ruining it.
 
 **Enable Dark Mode (Optional)**
