@@ -6,7 +6,10 @@ SciTE4HTH is a modified version of SciTE4AutoHotkey designed to work with HTH us
 
 To use SciTE4HTH, simply open .hth files with the application. Syntax highlighting and keyword completion will be available for your HTH and HTpy scripts.
 
-This editor is mainly for HTH https://github.com/TheMaster1127/HTH 
+#### This editor is mainly for HTH and HTpy 
+
+- HTH: https://github.com/TheMaster1127/HTH
+- HTpy: https://github.com/TheMaster1127/HTpy
 
 ## Installation
 
@@ -14,15 +17,20 @@ This editor is mainly for HTH https://github.com/TheMaster1127/HTH
 2. Unzip the folder.
 3. Move the downloaded files to your desired location.
 4. Run SciTE4HTH by executing the executable file at "SciTE4HTH\SciTE\SciTE.exe".
-5. Open `hth.properties` or `htpy.properties` and change the path to the full path of the `HTH.exe` or `HTpy.py` on your machine.
+5. Open `hth.properties` or `htpy.properties` and change the path to the full path of the `HTH.exe` for HTH v1 and `HTH.py` for HTH v2 or in `htpy.properties` for HTpy find  `HTpy.py` on your machine.
 
-![image](https://github.com/TheMaster1127/SciTE4HTH/assets/134737935/15e31261-3639-49bf-8e49-c486c7ba25af)
+for HTH v1 and HTH v2
+
+![image](https://github.com/TheMaster1127/SciTE4HTH/assets/134737935/5fcec234-411a-4a3c-b5cc-fdb958cb445f)
+
+for HTpy
 
 ![image](https://github.com/TheMaster1127/SciTE4HTH/assets/134737935/afeb8503-1f4c-4c28-9b95-55974c659880)
 
 For HTpy you need to have python installed on you pc.
 
-For HTH press `F5` or click on the run icon to transpile HTH to js in a full HTML file.
+For HTH v1 press `Ctrl+F7` or navigate to Tools > Compile to transpile HTH to js in a full HTML file.
+For HTH v2 press `F5` or click on the run icon to transpile HTH to js in a full HTML file.
 
 For HTpy press `F5` to transpile and run at once and press `Ctrl+F7` or navigate to Tools > Compile to transpile the code only without ruining it.
 
